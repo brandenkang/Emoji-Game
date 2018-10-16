@@ -1,4 +1,4 @@
-# Branden Kang's Final Project for Intro to CS
+# Emoji_Game Using Processing
 
 This is the first game I created using Processing. 
 Press any key to play in the start screen. 
