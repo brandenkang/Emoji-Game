@@ -1,4 +1,4 @@
-# Emoji_Game Using Processing
+# emoji game
 
 This is the first game I created using Processing. 
 Press any key to play in the start screen. 
